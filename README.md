@@ -1,6 +1,7 @@
 Proyecto de dockerizacion de 2 apis en Springboot, una funcioanndo como CRUD  y la otra funcionando como validacion de uno de sus campos, junto a una base de datos MySql para el Bootcamp Doocker de AWS dado por Sicos Informática
 
 ACLARACION: Este proyecto se probó usando WSL y Docker Desktop.
+ACLARACION 2: El front, por el momento, no está dockerizado.
 
 Pasos para su prueba.
 
@@ -14,7 +15,8 @@ Pasos para su prueba.
 
 5. Podemos ver en el Docker Desktop, el contenedor con las 3 imagenes corriendo
 
-6. Adjunto video de como se deberian hacer y ver estos pasos: https://www.youtube.com/watch?v=hWo770pqcns
+6. Adjunto video de como se deberian hacer y ver estos pasos:
+   [![Alt text](https://img.youtube.com/vi/hWo770pqcns/0.jpg)](https://www.youtube.com/watch?v=hWo770pqcns)
 
-7. 
+8. 
 
