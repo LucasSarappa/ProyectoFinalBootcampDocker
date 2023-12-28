@@ -16,7 +16,10 @@ Pasos para su prueba.
 5. Podemos ver en el Docker Desktop, el contenedor con las 3 imagenes corriendo
 
 6. Adjunto video de como se deberian hacer y ver estos pasos:
-<iframe>https://www.youtube.com/watch?v=hWo770pqcns<iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hWo770pqcns" frameborder="0" allowfullscreen></iframe>
+
+
 
 8. 
 
