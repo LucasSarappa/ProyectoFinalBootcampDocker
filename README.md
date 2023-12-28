@@ -17,7 +17,7 @@ Pasos para su prueba.
 
 6. Adjunto video de como se deberian hacer y ver estos pasos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hWo770pqcns" frameborder="0" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/hWo770pqcns/0.jpg)](https://www.youtube.com/watch?v=hWo770pqcns)
 
 
 
