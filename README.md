@@ -22,4 +22,6 @@ Pasos para su prueba.
 
 8. Finalmente, video en funcionamiento:
 
+[![Alt text](https://img.youtube.com/vi/C3n1Giwp3E4/0.jpg)](https://www.youtube.com/watch?v=C3n1Giwp3E4)
+
 
