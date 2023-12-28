@@ -20,6 +20,6 @@ Pasos para su prueba.
 [![Alt text](https://img.youtube.com/vi/hWo770pqcns/0.jpg)](https://www.youtube.com/watch?v=hWo770pqcns)
 
 
+8. Finalmente, video en funcionamiento:
 
-8. 
 
